@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wjj-create.github.io</id>
     <title>本金在家里睡觉</title>
-    <updated>2020-05-22T07:32:58.376Z</updated>
+    <updated>2020-05-22T23:28:21.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wjj-create.github.io"/>
     <link rel="self" href="https://wjj-create.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://wjj-create.github.io/images/avatar.png</logo>
     <icon>https://wjj-create.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 本金在家里睡觉</rights>
+    <entry>
+        <title type="html"><![CDATA[起早]]></title>
+        <id>https://wjj-create.github.io/post/qi-zao/</id>
+        <link href="https://wjj-create.github.io/post/qi-zao/">
+        </link>
+        <updated>2020-05-22T23:26:50.000Z</updated>
+        <content type="html"><![CDATA[<p>每天六点多久起来，多半是为了看微博上的热搜，不太喜欢从别人口中听到八卦，喜欢自己去告诉别人八卦😁</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wjj-create.github.io/post/hello-gridea/</id>
