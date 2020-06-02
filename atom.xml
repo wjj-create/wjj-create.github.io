@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wjj-create.github.io</id>
     <title>本金在家里睡觉</title>
-    <updated>2020-05-23T00:22:13.310Z</updated>
+    <updated>2020-06-02T03:16:25.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wjj-create.github.io"/>
     <link rel="self" href="https://wjj-create.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://wjj-create.github.io/images/avatar.png</logo>
     <icon>https://wjj-create.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 本金在家里睡觉</rights>
+    <entry>
+        <title type="html"><![CDATA[无感]]></title>
+        <id>https://wjj-create.github.io/post/wu-gan/</id>
+        <link href="https://wjj-create.github.io/post/wu-gan/">
+        </link>
+        <updated>2020-06-02T03:14:46.000Z</updated>
+        <content type="html"><![CDATA[<p>你慢吞吞地来，干嘛走的时候那么急？<br>
+最近忙于照顾妹妹，数据库耽搁了好多，数电汇编也没懂<br>
+淦！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[起早]]></title>
         <id>https://wjj-create.github.io/post/qi-zao/</id>
